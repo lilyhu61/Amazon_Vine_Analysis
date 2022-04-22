@@ -44,6 +44,7 @@ calculate different metrics. We focused on the US reviews for baby.
 
 ## Summary
 The percentage of 5-star reviews in the Vine program is 48%, whereas the percentage of 5-star reviews in the non-Vine reviews is 44%. This describes that there is not any positivity bias for reviews in the Vine program.
+
 Additionally we could analyse the statistical distribution (mean, median and mode) of the star rating for the Vine and non-Vine reviews.
 
  
